@@ -29,7 +29,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 - Had difficulty getting the YoutubePlayer to work on an actual device, kept running into an error. Was able to get the video on the virtual device.
 - Truncated movie overview on the mainpage to make the text the same length as the poster, added an ellipse to reflect there being more information.
-- Added movie release date to details pafe 
+- Added movie release date to details page. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
