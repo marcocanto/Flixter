@@ -50,7 +50,7 @@ Had difficulty getting the YoutubePlayer to work on an actual device, kept runni
 
 ### App Walkthough GIF
 
-<img src="walkthrough.gif" width=250><br>
+<img src="old_walkthrough.gif" width=250><br>
 
 ### Notes
 
