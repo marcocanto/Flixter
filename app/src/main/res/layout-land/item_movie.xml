@@ -2,6 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginTop="10dp">
@@ -33,8 +34,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvTitle"
+        android:layout_alignBottom="@+id/ivPoster"
         android:layout_marginStart="10dp"
         android:layout_marginTop="5dp"
+        android:layout_marginBottom="-273dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:ellipsize="end"
+        android:maxLines="4"
         tools:text="Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah." />
 </RelativeLayout>
